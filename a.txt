@@ -14,10 +14,13 @@ babo
 
 yuniyuniyuniyuni
 
-<<<<<<< HEAD
+
 
 
 babobabo
-=======
+
 ok goodgood
->>>>>>> 50921ff8431f273dc535155686019e62f52aa118
+
+
+
+
